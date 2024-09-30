@@ -1,10 +1,6 @@
-# New-York-Taxi-Analysis
+# Applied AI ML Program
 
-Data analysis for New York Taxi
-
-public data
-
-Jan 2019
+Week 1 Data analysis for New York Taxi Jan 2019
 
 https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-01.parquet
 
